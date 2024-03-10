@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tinyalloc.h": "c",
+        "proc.h": "c",
+        "tic.h": "c"
+    }
+}
